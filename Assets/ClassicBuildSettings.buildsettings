@@ -1,0 +1,30 @@
+{
+    "Dependencies": [],
+    "Components": [{
+        "$type": "Unity.Build.Common.GeneralSettings, Unity.Build.Common",
+        "ProductName": "Mazenko",
+        "CompanyName": "Philip Jensen"
+    }, {
+        "$type": "Unity.Build.Common.SceneList, Unity.Build.Common",
+        "BuildCurrentScene": false,
+        "Scenes": [
+            "GlobalObjectId_V1-1-9fc0d4010bbf28b4594072e72b8655ab-102900000-0",
+            "GlobalObjectId_V1-1-fbf617042ecdf0d4b8d61b825837210c-102900000-0",
+            "GlobalObjectId_V1-1-f54dee680f0e1a04984d9f0dfc76522d-102900000-0",
+            "GlobalObjectId_V1-1-4485bb0592c6cb540b2c97992d129abb-102900000-0",
+            "GlobalObjectId_V1-1-559aeae4f8f8ad14dbd77dd2225d3264-102900000-0",
+            "GlobalObjectId_V1-1-2e0a17b217bd3bd42bc1ae43f271b8bc-102900000-0"
+        ]
+    }, {
+        "$type": "Unity.Build.Common.ClassicBuildProfile, Unity.Build.Common",
+        "Target": 5,
+        "Configuration": 3,
+        "Pipeline": "GlobalObjectId_V1-1-99fe1e2a22b18e14d9dd5dacc75a0212-93214019566545601-0",
+        "ExcludedAssemblies": []
+    }, {
+        "$type": "Unity.Build.Common.ClassicScriptingSettings, Unity.Build.Common",
+        "ScriptingBackend": 0,
+        "Il2CppCompilerConfiguration": 1,
+        "UseIncrementalGC": false
+    }]
+}
